@@ -18,7 +18,7 @@ limitations under the License.
 # Dell Terraform Providers
 
 [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-v2.0%20adopted-ff69b4.svg)](docs/CODE_OF_CONDUCT.md)
-[![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](LICENSE)
+[![License](https://img.shields.io/badge/License-MPL_2.0-blue.svg)](LICENSE)
 
 Dell Terraform providers is an open-source suite of Terraform providers for Dell products.
 
