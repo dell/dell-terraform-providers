@@ -32,11 +32,10 @@ For documentation, please visit [Dell Terraform Providers documentation](https:/
 * [Contributing Guide](./docs/CONTRIBUTING.md)
 * [Branching Strategy](./docs/BRANCHING.md)
 * [List of Adopters](./docs/ADOPTERS.md)
-* [Maintainers](./docs/MAINTAINERS.md)
 * [Support](./docs/SUPPORT.md)
 * [Security](./docs/SECURITY.md)
 * [Dell Terraform Providers - Components](#dell-terraform-providers---components)
-* [About](#about)
+* [License](#license)
 
 ## Dell Terraform Providers - Components
 * [Dell Terraform Providers for Powerflex](https://github.com/dell/terraform-provider-powerflex)
