@@ -149,10 +149,6 @@ Make sure that the title for your pull request uses the same format as the subje
 
 GitHub Actions are used to enforce quality gates when a pull request is created or when any commit is made to the pull request. These GitHub Actions enforce our minimum code quality requirement for any code that get checked into the repository. If any of the quality gates fail, it is expected that the contributor will look into the check log, understand the problem and resolve the issue. If help is needed, please feel free to reach out the maintainers of the project for [support](https://github.com/dell/dell-terraform-providers/blob/main/SUPPORT.md).
 
-#### Code sanitization
-
-[GitHub action](https://github.com/dell/dell-terraform-providers/actions/workflows/ansible-test.yml) that analyzes source code to flag ansible sanity errors and runs Unit tests.
-
 ## Code reviews
 
 All submissions, including submissions by project members, require review. We use GitHub pull requests for this purpose. Consult [GitHub Help](https://help.github.com/articles/about-pull-requests/) for more information on using pull requests.
