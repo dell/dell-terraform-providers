@@ -23,3 +23,25 @@ limitations under the License.
 Dell Terraform providers is an open-source suite of Terraform providers for Dell products.
 
 For documentation, please visit [Dell Terraform Providers documentation](https://dell.github.io/terraform-docs/).
+
+## Table of Contents
+
+* [Code of Conduct](./docs/CODE_OF_CONDUCT.md)
+* [Maintainer Guide](./docs/MAINTAINER_GUIDE.md)
+* [Committer Guide](./docs/COMMITTER_GUIDE.md)
+* [Contributing Guide](./docs/CONTRIBUTING.md)
+* [Branching Strategy](./docs/BRANCHING.md)
+* [List of Adopters](./docs/ADOPTERS.md)
+* [Maintainers](./docs/MAINTAINERS.md)
+* [Support](./docs/SUPPORT.md)
+* [Security](./docs/SECURITY.md)
+* [Dell Terraform Providers - Components](#dell-terraform-providers---components)
+* [About](#about)
+
+## Dell Terraform Providers - Components
+* [Dell Terraform Providers for Powerflex](https://github.com/dell/terraform-provider-powerflex)
+* [Dell Terraform Providers for Powerstore](https://github.com/dell/terraform-provider-powerstore)
+
+## License
+
+The Dell Terraform Providers are released and licensed under the MPL-2.0 license. See [LICENSE](LICENSE) for the full terms.

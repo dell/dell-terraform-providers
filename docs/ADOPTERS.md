@@ -14,9 +14,14 @@ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 See the License for the specific language governing permissions and
 limitations under the License.
 -->
+# Adopters
 
-# Support
+These organizations are using Dell Terraform Providers in production:
 
-For all your support needs or to follow the latest ongoing discussions and updates, join our Slack group. Click [Here](http://del.ly/Slack_request) to request your invite.
+If you're using Dell Terraform Provider(s) and wish to be listed, please feel free to
+[submit a pull request](https://github.com/dell/dell-terraform-providers/pulls) using the following guidelines:
 
-You can also interact with us on [GitHub](https://github.com/dell/dell-terraform-providers) by creating a [GitHub Issue](https://github.com/dell/dell-terraform-providers/issues).
+* Add a reference (link to a public blog post, video, slides, etc) mentioning the use of Dell Terraform Providers
+
+| Organization | Reference |
+| ------------ | --------- |

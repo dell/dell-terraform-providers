@@ -6,11 +6,18 @@ you may not use this file except in compliance with the License.
 You may obtain a copy of the License at
 
     http://mozilla.org/MPL/2.0/
+
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
 -->
 
 # How to contribute
 
-Become one of the contributors to this project! We thrive to build a welcoming and open community for anyone who wants to use the project or contribute to it. There are just a few small guidelines you need to follow. To help us create a safe and positive community experience for all, we require all participants to adhere to the [Code of Conduct](https://github.com/dell/terraform-provider-powerflex/blob/main/CODE_OF_CONDUCT.md).
+Become one of the contributors to this project! We thrive to build a welcoming and open community for anyone who wants to use the project or contribute to it. There are just a few small guidelines you need to follow. To help us create a safe and positive community experience for all, we require all participants to adhere to the [Code of Conduct](CODE_OF_CONDUCT.md).
 
 ## Table of contents
 
@@ -28,7 +35,7 @@ Become one of the contributors to this project! We thrive to build a welcoming a
 
 You can contribute to this project in several ways. Here are some examples:
 
-* Contribute to the Terraform provider for Dell PowerFlex documentation and codebase.
+* Contribute to the Terraform provider for Dell documentation and codebase.
 * Report and triage bugs.
 * Feature requests.
 * Write technical documentation and blog posts, for users and contributors.
@@ -36,19 +43,19 @@ You can contribute to this project in several ways. Here are some examples:
 
 ## Submitting issues
 
-All issues related to Terraform provider for Dell PowerFlex, regardless of the service/repository the issue belongs to (see table above), should be submitted [here](https://github.com/dell/terraform-provider-powerflex/issues). Issues will be triaged and labels will be used to indicate the type of issue. This section outlines the types of issues that can be submitted.  
+All issues related to Terraform provider for Dell PowerFlex, regardless of the service/repository the issue belongs to (see table above), should be submitted [here](https://github.com/dell/dell-terraform-providers/issues). Issues will be triaged and labels will be used to indicate the type of issue. This section outlines the types of issues that can be submitted.  
 
 ### Report bugs
 
-We aim to track and document everything related to Terraform provider for Dell PowerFlex via the Issues page. The code and documentation are released with no warranties or SLAs and are intended to be supported through a community driven process.
+We aim to track and document everything related to Terraform provider for Dell via the Issues page. The code and documentation are released with no warranties or SLAs and are intended to be supported through a community driven process.
 
-Before submitting a new issue, make sure someone hasn't already reported the problem. Look through the [existing issues](https://github.com/dell/terraform-provider-powerflex/issues) for similar issues.
+Before submitting a new issue, make sure someone hasn't already reported the problem. Look through the [existing issues](https://github.com/dell/dell-terraform-providers/issues) for similar issues.
 
-Report a bug by submitting a [bug report](https://github.com/dell/terraform-provider-powerflex/issues/new?labels=type%2Fbug%2C+needs-triage&template=bug_report.md&title=%5BBUG%5D%3A). Make sure that you provide as much information as possible on how to reproduce the bug.
+Report a bug by submitting a [bug report](https://github.com/dell/dell-terraform-providers/issues/new?labels=type%2Fbug%2C+needs-triage&template=bug_report.md&title=%5BBUG%5D%3A). Make sure that you provide as much information as possible on how to reproduce the bug.
 
 When opening a Bug please include this information to help with debugging:
 
-1. Version of relevant software: this software, Ansible, Python, SDK, etc.
+1. Version of relevant software: this software, Go, Terraform etc.
 2. Details of the issue explaining the problem: what, when, where
 3. The expected outcome that was not met (if any)
 4. Supporting troubleshooting information. __Note: Do not provide private company information that could compromise your company's security.__
@@ -57,13 +64,13 @@ An Issue __must__ be created before submitting any pull request. Any pull reques
 
 ### Feature request
 
-If you have an idea of how to improve this project, submit a [feature request](https://github.com/dell/terraform-provider-powerflex/issues/new?labels=type%2Ffeature-request%2C+needs-triage&template=feature_request.md&title=%5BFEATURE%5D%3A).
+If you have an idea of how to improve this project, submit a [feature request](https://github.com/dell/dell-terraform-providers/issues/new?labels=type%2Ffeature-request%2C+needs-triage&template=feature_request.md&title=%5BFEATURE%5D%3A).
 
 ### Answering questions
 
-If you have a question and you can't find the answer in the documentation or issues, the next step is to submit a [question.](https://github.com/dell/terraform-provider-powerflex/issues/new?labels=type%2Fquestion&template=ask-a-question.md&title=%5BQUESTION%5D%3A)
+If you have a question and you can't find the answer in the documentation or issues, the next step is to submit a [question.](https://github.com/dell/dell-terraform-providers/issues/new?labels=type%2Fquestion&template=ask-a-question.md&title=%5BQUESTION%5D%3A)
 
-We'd love your help answering questions being asked by other Terraform provider for Dell PowerFlex users.
+We'd love your help answering questions being asked by other Terraform provider for Dell users.
 
 ## Triage issues
 
@@ -74,16 +81,16 @@ Triage helps ensure that issues resolve quickly by:
 * Lowering the issue count by preventing duplicate issues.
 * Streamlining the development process by preventing duplicate discussions.
 
-If you don't have the knowledge or time to code, consider helping with _issue triage_. The Terraform provider for Dell PowerFlex community will thank you for saving them time by spending some of yours.
+If you don't have the knowledge or time to code, consider helping with _issue triage_. The Terraform provider for Dell community will thank you for saving them time by spending some of yours.
 
-Read more about the ways you can [Triage issues](https://github.com/dell/terraform-provider-powerflex/blob/main/ISSUE_TRIAGE.md).
+Read more about the ways you can [Triage issues](https://github.com/dell/dell-terraform-providers/blob/main/ISSUE_TRIAGE.md).
 
 ## Your first contribution
 
 Unsure where to begin contributing? Start by browsing issues labeled `beginner friendly` or `help wanted`.
 
-* [Beginner-friendly](https://github.com/dell/terraform-provider-powerflex/issues?q=is%3Aopen+is%3Aissue+label%3A%22beginner+friendly%22) issues are generally straightforward to complete.
-* [Help wanted](https://github.com/dell/terraform-provider-powerflex/issues?q=is%3Aopen+is%3Aissue+label%3A%22help+wanted%22) issues are problems we would like the community to help us with regardless of complexity.
+* [Beginner-friendly](https://github.com/dell/dell-terraform-providers/issues?q=is%3Aopen+is%3Aissue+label%3A%22beginner+friendly%22) issues are generally straightforward to complete.
+* [Help wanted](https://github.com/dell/dell-terraform-providers/issues?q=is%3Aopen+is%3Aissue+label%3A%22help+wanted%22) issues are problems we would like the community to help us with regardless of complexity.
 
 When you're ready to contribute, it's time to create a pull request.
 
@@ -111,7 +118,7 @@ $ git commit -S -m your commit message
 
 ### Commit message format
 
-Terraform provider for Dell PowerFlex uses the guidelines for commit messages outlined in [How to Write a Git Commit Message](https://chris.beams.io/posts/git-commit/)
+Terraform provider for Dell uses the guidelines for commit messages outlined in [How to Write a Git Commit Message](https://chris.beams.io/posts/git-commit/)
 
 ## Pull requests
 
@@ -140,11 +147,11 @@ Make sure that the title for your pull request uses the same format as the subje
 
 ### Quality gates for pull requests
 
-GitHub Actions are used to enforce quality gates when a pull request is created or when any commit is made to the pull request. These GitHub Actions enforce our minimum code quality requirement for any code that get checked into the repository. If any of the quality gates fail, it is expected that the contributor will look into the check log, understand the problem and resolve the issue. If help is needed, please feel free to reach out the maintainers of the project for [support](https://github.com/dell/terraform-provider-powerflex/blob/main/SUPPORT.md).
+GitHub Actions are used to enforce quality gates when a pull request is created or when any commit is made to the pull request. These GitHub Actions enforce our minimum code quality requirement for any code that get checked into the repository. If any of the quality gates fail, it is expected that the contributor will look into the check log, understand the problem and resolve the issue. If help is needed, please feel free to reach out the maintainers of the project for [support](https://github.com/dell/dell-terraform-providers/blob/main/SUPPORT.md).
 
 #### Code sanitization
 
-[GitHub action](https://github.com/dell/terraform-provider-powerflex/actions/workflows/ansible-test.yml) that analyzes source code to flag ansible sanity errors and runs Unit tests.
+[GitHub action](https://github.com/dell/dell-terraform-providers/actions/workflows/ansible-test.yml) that analyzes source code to flag ansible sanity errors and runs Unit tests.
 
 ## Code reviews
 
