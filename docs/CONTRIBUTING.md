@@ -83,7 +83,7 @@ Triage helps ensure that issues resolve quickly by:
 
 If you don't have the knowledge or time to code, consider helping with _issue triage_. The Terraform provider for Dell community will thank you for saving them time by spending some of yours.
 
-Read more about the ways you can [Triage issues](https://github.com/dell/dell-terraform-providers/blob/main/ISSUE_TRIAGE.md).
+Read more about the ways you can [Triage issues](ISSUE_TRIAGE.md).
 
 ## Your first contribution
 
@@ -147,7 +147,7 @@ Make sure that the title for your pull request uses the same format as the subje
 
 ### Quality gates for pull requests
 
-GitHub Actions are used to enforce quality gates when a pull request is created or when any commit is made to the pull request. These GitHub Actions enforce our minimum code quality requirement for any code that get checked into the repository. If any of the quality gates fail, it is expected that the contributor will look into the check log, understand the problem and resolve the issue. If help is needed, please feel free to reach out the maintainers of the project for [support](https://github.com/dell/dell-terraform-providers/blob/main/SUPPORT.md).
+GitHub Actions are used to enforce quality gates when a pull request is created or when any commit is made to the pull request. These GitHub Actions enforce our minimum code quality requirement for any code that get checked into the repository. If any of the quality gates fail, it is expected that the contributor will look into the check log, understand the problem and resolve the issue. If help is needed, please feel free to reach out the maintainers of the project for [support](SUPPORT.md).
 
 ## Code reviews
 
