@@ -34,5 +34,5 @@ Terraform providers for Dell follows a scaled trunk branching strategy where sho
 2. Create a branch off of the main branch. The branch name should follow [branch naming convention](#branch-naming-convention).
 3. Make your changes and commit them to your branch.
 4. If other code changes have merged into the upstream main branch, perform a rebase of those changes into your branch.
-5. Open a pull request](https://github.com/dell/dell-terraform-providers/pulls) between your branch and the upstream main branch.
+5. Open a [pull request](https://github.com/dell/dell-terraform-providers/pulls) between your branch and the upstream main branch.
 6. Once your pull request has merged, your branch can be deleted.
