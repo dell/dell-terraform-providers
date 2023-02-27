@@ -1,11 +1,12 @@
 <!--
-Copyright (c) 2021 Dell Inc., or its subsidiaries. All Rights Reserved.
+Copyright (c) 2022 Dell Inc., or its subsidiaries. All Rights Reserved.
 
-Licensed under the Apache License, Version 2.0 (the "License");
+Licensed under the Mozilla Public License Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
 You may obtain a copy of the License at
-   
-    http://www.apache.org/licenses/LICENSE-2.0
+
+    http://mozilla.org/MPL/2.0/
+
 
 Unless required by applicable law or agreed to in writing, software
 distributed under the License is distributed on an "AS IS" BASIS,
@@ -16,6 +17,6 @@ limitations under the License.
 
 # Support
 
-For all your support needs or to follow the latest ongoing discussions and updates, join our Slack group. Click [Here](http://del.ly/Slack_request) to request your invite.
+For all your support needs or to follow the latest ongoing discussions and updates, join our Slack group. Click [Here](https://app.smartsheet.com/b/form/4bd4375b980c4dabbaaf7d92b57eabd5) to request your invite.
 
 You can also interact with us on [GitHub](https://github.com/dell/dell-terraform-providers) by creating a [GitHub Issue](https://github.com/dell/dell-terraform-providers/issues).
