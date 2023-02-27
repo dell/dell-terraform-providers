@@ -34,12 +34,12 @@ For documentation, please visit [Dell Terraform Providers documentation](https:/
 * [List of Adopters](./docs/ADOPTERS.md)
 * [Support](./docs/SUPPORT.md)
 * [Security](./docs/SECURITY.md)
-* [Dell Terraform Providers - Components](#dell-terraform-providers---components)
+* [Dell Terraform Providers - Components](#dell-terraform-providers)
 * [License](#license)
 
-## Dell Terraform Providers - Components
-* [Dell Terraform Providers for Powerflex](https://github.com/dell/terraform-provider-powerflex)
-* [Dell Terraform Providers for Powerstore](https://github.com/dell/terraform-provider-powerstore)
+## Dell Terraform Providers
+* [Dell Terraform Provider for Powerflex](https://github.com/dell/terraform-provider-powerflex)
+* [Dell Terraform Provider for Powerstore](https://github.com/dell/terraform-provider-powerstore)
 
 ## License
 
