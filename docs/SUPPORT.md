@@ -17,6 +17,6 @@ limitations under the License.
 
 # Support
 
-For all your support needs or to follow the latest ongoing discussions and updates, join our Slack group. Click [Here](./) to request your invite.
+For all your support needs or to follow the latest ongoing discussions and updates, join our Slack group. Click [Here](https://app.smartsheet.com/b/form/4bd4375b980c4dabbaaf7d92b57eabd5) to request your invite.
 
 You can also interact with us on [GitHub](https://github.com/dell/dell-terraform-providers) by creating a [GitHub Issue](https://github.com/dell/dell-terraform-providers/issues).
