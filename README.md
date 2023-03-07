@@ -40,6 +40,7 @@ For documentation, please visit [Dell Terraform Providers documentation](https:/
 ## Dell Terraform Providers
 * [Dell Terraform Provider for Powerflex](https://github.com/dell/terraform-provider-powerflex)
 * [Dell Terraform Provider for Powerstore](https://github.com/dell/terraform-provider-powerstore)
+* [Dell Terraform Provider for OME](https://github.com/dell/terraform-provider-ome)
 
 ## License
 
