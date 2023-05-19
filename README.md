@@ -38,8 +38,9 @@ For documentation, please visit [Dell Terraform Providers documentation](https:/
 * [License](#license)
 
 ## Dell Terraform Providers
-* [Dell Terraform Provider for Powerflex](https://github.com/dell/terraform-provider-powerflex)
-* [Dell Terraform Provider for Powerstore](https://github.com/dell/terraform-provider-powerstore)
+* [Dell Terraform Provider for PowerFlex](https://github.com/dell/terraform-provider-powerflex)
+* [Dell Terraform Provider for PowerStore](https://github.com/dell/terraform-provider-powerstore)
+* [Dell Terraform Provider for PowerMax](https://github.com/dell/terraform-provider-powermax)
 
 ## License
 
