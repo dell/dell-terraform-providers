@@ -42,6 +42,7 @@ For documentation, please visit [Dell Terraform Providers documentation](https:/
 * [Dell Terraform Provider for PowerStore](https://github.com/dell/terraform-provider-powerstore)
 * [Dell Terraform Provider for PowerMax](https://github.com/dell/terraform-provider-powermax)
 * [Dell Terraform Provider for OME](https://github.com/dell/terraform-provider-ome)
+* [Dell Terraform Provider for PowerScale](https://github.com/dell/terraform-provider-powerscale)
 
 ## License
 
