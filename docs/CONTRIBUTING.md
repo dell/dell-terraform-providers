@@ -43,7 +43,7 @@ You can contribute to this project in several ways. Here are some examples:
 
 ## Submitting issues
 
-All issues related to Terraform provider for Dell PowerFlex/PowerStore/PowerMax/OME/PowerScale, regardless of the service/repository the issue belongs to (see table above), should be submitted [here](https://github.com/dell/dell-terraform-providers/issues). Issues will be triaged and labels will be used to indicate the type of issue. This section outlines the types of issues that can be submitted.  
+All issues related to Terraform provider for Dell PowerFlex/PowerStore/PowerMax/OME/PowerScale/RedFish, regardless of the service/repository the issue belongs to (see table above), should be submitted [here](https://github.com/dell/dell-terraform-providers/issues). Issues will be triaged and labels will be used to indicate the type of issue. This section outlines the types of issues that can be submitted.  
 
 ### Report bugs
 
