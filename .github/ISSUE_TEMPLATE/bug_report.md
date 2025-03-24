@@ -15,9 +15,11 @@ Steps to reproduce the behavior:
 1. Create / modify this entity '...'
 2. Execute Terraform plan '....'
 3. Execute Terraform apply '....'
-4. See error
 
 **Expected behavior**
+A clear and concise description of what you expected to happen.
+
+**Actual behavior**
 A clear and concise description of what you expected to happen.
 
 **Screenshots**
