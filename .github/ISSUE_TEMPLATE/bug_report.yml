@@ -15,15 +15,6 @@ body:
       description: A clear and concise description of what the bug is.
     validations:
       required: true
-
- # Non-mandatory
-  - type: textarea
-    id: output
-    attributes:
-      label: output
-      description: Upload any relevant output here by dragging and dropping the files into the text area.
-    validations:
-      required: false      
  
   - type: textarea
     id: info
@@ -49,21 +40,23 @@ body:
     validations:
       required: true
 
+# Non-mandatory
+  - type: textarea
+    id: output
+    attributes:
+      label: output
+      description: provide relevant output which was encountered during 'steps to reproduce' process here.
+    validations:
+      required: false     
+
   - type: textarea
     id: provider
     attributes:
       label: Terraform Provider
-      description: Please list the Terraform Provider / module  that are applicable to this bug.
+      description: Please mention the Terraform Provider / module  that is related with this bug.
     validations:
       required: true
 
-  - type: textarea
-    id: providerversion
-    attributes:
-      label: Terraform Provider
-      description: Please list the Terraform Provider / module  version that are applicable to this bug.
-    validations:
-      required: true
 
 # Need to discuss
   - type: textarea
