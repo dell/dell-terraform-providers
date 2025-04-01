@@ -49,14 +49,18 @@ body:
     validations:
       required: false     
 
-  - type: textarea
+ - type: dropdown
     id: provider
     attributes:
       label: Terraform Provider
-      description: Please mention the Terraform Provider / module  that is related with this bug.
+      description: Please choose the Terraform Provider / module  that is applicable to this issue.
+      options:
+        - PowerScale
+        - PowerFlex
+		    - PowerMax
+		    - PowerStore
     validations:
       required: true
-
 
 # Need to discuss
   - type: textarea
