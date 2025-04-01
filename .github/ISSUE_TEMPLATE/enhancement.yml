@@ -7,7 +7,7 @@ body:
     attributes:
       value:
         Thank you for creating this enhancement. Please provide the information in below format.
-        
+
   - type: textarea
     id: enhancement-description
     attributes:
@@ -15,6 +15,27 @@ body:
       description: A clear and concise description of what you want to happen.
     validations:
       required: true
+
+  - type: dropdown
+    id: provider
+    attributes:
+      label: provider-type
+      description: Please list the Terraform Provider / module  that are applicable to this bug.
+      options:
+        - PowerScale
+        - PowerFlex
+        - PowerMax
+        - PowerStore
+    validations:
+      required: true
+
+  - type: textarea
+    id: alternatives
+    attributes:
+       label: Describe alternatives you've considered
+       description: A clear and concise description of any alternative solutions or features you've considered.
+    validations:
+      required: false
 
   - type: textarea
     id: alternatives
