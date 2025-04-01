@@ -49,16 +49,16 @@ body:
     validations:
       required: false     
 
- - type: dropdown
+  - type: dropdown
     id: provider
     attributes:
       label: Terraform Provider
-      description: Please choose the Terraform Provider / module  that is applicable to this issue.
+      description: Please choose the relevant Terraform Provider / module.
       options:
         - PowerScale
         - PowerFlex
-		    - PowerMax
-		    - PowerStore
+	- PowerMax
+	- PowerStore
     validations:
       required: true
 
