@@ -1,0 +1,72 @@
+name: Bug report
+description: File a bug report.
+title: "[BUG]: "
+labels: ["type/bug", "needs-triage"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thank you for taking the time to create a Terraform Provider bug report. To better help us investigate this bug, please provide the information below.
+
+  - type: textarea
+    id: bug-description
+    attributes:
+      label: Bug Description
+      description: A clear and concise description of what the bug is.
+    validations:
+      required: true
+ 
+  - type: textarea
+    id: info
+    attributes:
+      label: Additional Environment Information
+      description: Provide additional environment information such as a listing of Storage array version (e.g., PowerFlex 4.5 etc.), Golang version etc.
+    validations:
+      required: false
+ 
+  - type: textarea
+    id: steps
+    attributes:
+      label: Steps to Reproduce
+      description: What steps can taken to reproduce this bug? / Description. Please try to include terraform config file here.Please be sure to remove all sensitive data such as IP addresses, host names, credentials, etc.
+    validations:
+      required: true
+ 
+  - type: textarea
+    id: expected
+    attributes:
+      label: Expected Behavior
+      description: A clear and concise description of what you expected to happen.
+    validations:
+      required: true
+
+# Non-mandatory
+  - type: textarea
+    id: output
+    attributes:
+      label: output
+      description: provide relevant output which was encountered during 'steps to reproduce' process here.
+    validations:
+      required: false     
+
+  - type: dropdown
+    id: provider
+    attributes:
+      label: Terraform Provider
+      description: Please choose the relevant Terraform Provider / module.
+      options:
+        - PowerScale
+        - PowerFlex
+        - PowerMax
+        - PowerStore
+    validations:
+      required: true
+
+# Need to discuss
+  - type: textarea
+    id: files
+    attributes:
+      label: Logs
+      description: Copy/paste any relevant log output here. Please be sure to remove all sensitive data such as IP addresses, host names, credentials, etc.
+    validations:
+      required: false
