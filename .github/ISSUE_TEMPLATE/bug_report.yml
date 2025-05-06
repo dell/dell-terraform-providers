@@ -60,6 +60,7 @@ body:
         - PowerMax
         - PowerStore
         - OME
+        - Redfish
     validations:
       required: true
 
