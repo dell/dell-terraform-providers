@@ -59,6 +59,8 @@ body:
         - PowerFlex
         - PowerMax
         - PowerStore
+        - OME
+        - Redfish
     validations:
       required: true
 
