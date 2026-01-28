@@ -45,6 +45,7 @@ For documentation, please visit [Dell Terraform Providers documentation](https:/
 * [Dell Terraform Provider for PowerScale](https://github.com/dell/terraform-provider-powerscale)
 * [Dell Terraform Provider for RedFish](https://github.com/dell/terraform-provider-redfish)
 * [Dell Terraform Provider for Apex](https://github.com/dell/terraform-provider-apex)
+* [Dell Terraform Provider for ObjectScale](https://github.com/dell/terraform-provider-objectscale)
 
 ## License
 
